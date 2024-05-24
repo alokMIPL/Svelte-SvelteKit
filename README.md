@@ -25,7 +25,7 @@
 > SvelteKit provides everythings for you.
 > Opinions and conventions which need to be followed to implement the above said features.
 
-## why SvelteKit?
+## Why SvelteKit?
 
 > SvelteKit simplifies the process of buliding a web apllication for production
 1. File based routing
@@ -55,4 +55,4 @@
 > 4. Catch All Routes.
 > 5. Optional Parameters
 > 6. Route Navigation
-> 7. Navigating programmatically
+> 7. Navigating Programmatically
